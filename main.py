@@ -14,5 +14,10 @@ def presentacion():
 
 @app.get("/contacto")
 def contacto():
-    return "Email: racevedog7@gmail.com; josemanuelbrachonavarro@gmail.com; carlosvargassanchez24@gmail.com; cfarias.gallardo7@gmail.com; / Github: jbracho03"
+    return "Email: racevedog7@gmail.com; josemanuelbrachonavarro@gmail.com; carlosvargassanchez24@gmail.com; cfarias.gallardo7@gmail.com; / Github: Grupo-9-UCI /Proyecto_Final"
 # ***************QUERIS*******************
+
+
+
+
+
