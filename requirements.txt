@@ -1,5 +1,0 @@
-typing
-fastapi
-numpy
-pandas
-pandasql
