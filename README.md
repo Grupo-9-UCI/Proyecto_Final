@@ -21,7 +21,7 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 
 Se implementa una interfase aplicativa abierta `API` para exponer servicios de consulta que pueden ser consumidos por la propia solución y cualquier otra que se autorice.
 
-url: https://deta.space/discovery/r/bufnfg1zhario4ja
+url: https://deta.space/discovery/r/8xenuykgwfwtbxgc
 
 #### Get average discharge time
 
