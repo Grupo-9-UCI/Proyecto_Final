@@ -21,7 +21,7 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 
 Se implementa una interfase aplicativa abierta `API` para exponer servicios de consulta que pueden ser consumidos por la propia solución y cualquier otra que se autorice.
 
-url: https://uciapi-2-m9146281.deta.app/
+url: https://deta.space/discovery/r/bufnfg1zhario4ja
 
 #### Get average discharge time
 
