@@ -112,15 +112,27 @@ Mostrar gráficamente métricas y KPI’s para apoyar las decisiones de atenció
 - Trello
 
 
-## Metodología de trabajo
-
-Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
-
 ## EDA
 
 
 
 ## ETL
+
+## Automatización
+
+Empleamos la plataforma `Apache-Airflow` para automatizar el flujo de procesos de adquisición, exploración, preprocesamiento, transformación y carga de datos al repositorio de MySQL desplegado en AWS-RDS.
+
+En esta primera etapa este flujo inicia en el subsitema Linux de Windows local `WSL`, accediendo a los archivos `csv` desde una carpeta compartida y se ejecutan los procesos `dag` que toman estos archivos, hacen la conexión con MySQL y ejecutan la carga de datos.
+
+Este flujo de procesos se escalará en siguientes etapas para que los archivos se alojen en el subsistema S3 de AWS para robustecer el proceso de cargas incrementales.
+
+![image](https://user-images.githubusercontent.com/111448124/227802932-654cd3fb-be4f-467a-8b3d-a2c9a987bbe0.png)
+
+
+## Metodología de trabajo
+
+Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
+
 ## Autores
 
 - [@CarlitosAlex](https://github.com/CarlitosAlex)
