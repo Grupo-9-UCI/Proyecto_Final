@@ -126,7 +126,7 @@ En esta primera etapa este flujo inicia en el subsitema Linux de Windows local `
 
 Este flujo de procesos se escalará en siguientes etapas para que los archivos se alojen en el subsistema S3 de AWS para robustecer el proceso de cargas incrementales.
 
-![image](https://user-images.githubusercontent.com/111448124/227802932-654cd3fb-be4f-467a-8b3d-a2c9a987bbe0.png)
+![image](https://user-images.githubusercontent.com/111448124/227803184-2dc7fe22-d3d3-4505-8a0a-9d2540f8c0b0.png)
 
 
 ## Metodología de trabajo
