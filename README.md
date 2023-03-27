@@ -8,9 +8,11 @@
 ## Contexto
 
 La Unidad de Cuidados Intensivos (`UCI`) de un hospital cuenta con grandes volumenes de información de los pacientes que son atendidos en esta área en una infraestructura vulnerable, con mecanismos de seguridad e integridad débiles, dificultades de escalabilidad y limitada disponibilidad en tiempo real.
-## Solución propuesta
+
+## Solución propuesta :white_circle:
 
 La siguiente propuesta establece una arquitectura tecnólogica para el tratamiento de datos, robusta y escalable para soportar y apoyar la toma de decisiones del equipo médico directivo y operativo en el entorno de la recepción, registro, procesos y procedimientos realizados a pacientes que ingresan en la `UCI` de un hospital.
+
 ## Objetivos
 
 El alcance considerado en esta primera etapa de la propuesta es proveer de herramientas que ayuden a: 
@@ -48,8 +50,6 @@ Estos varios pasos incluyen:
 - Columnas Vacias: En principio se eliminó las columnas que tenian mas del 80% de registros nulos.
 - Despues se analiza de manera exhaustiva si las columnas que tienen aun una mayoria de datos nulos lo usaremos o no para poder eliminarlos. 
 - Reemplazar los valores nulos por ceros.
-
-
 
 
 
