@@ -1,7 +1,7 @@
 # Proyecto Final - Unidad De Cuidados Intensivos
 
 <center>
- <img src="https://i.postimg.cc/bvLVFqpt/readme.jpg" alt="Prueba" width="480" height="300" > 
+ <img src="Turquoise Simple Modern Linkedin Banner (1).png" > 
  </center>
 
 
