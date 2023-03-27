@@ -1,6 +1,10 @@
 # Proyecto Final
 Unidad De Cuidados Intensivos
 
+<center>
+ <img src="https://i.postimg.cc/bvLVFqpt/readme.jpg" alt="Prueba" width="480" height="300" > 
+ </center>
+
 
 ## Contexto
 
@@ -15,6 +19,41 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 - Reducir el tiempo de estancia de los pacientes en la `UCI` mediante una mejor atención.
 - Mejorar la selección de los pacientes que ingresan en la `UCI`, mediante la  priorización de su ingreso.
 - Reducir la tasa de mortalidad, las tasas de infección e incrementar la satisfacción del paciente.
+
+## Stack Tecnológico
+
+- Python v 3.10.9
+- Pandas v 1.5.2
+- FastAPI v 0.92.0
+- Jupyter Notebooks v 1.0.15
+- Visual Studio Code v 1.76.0
+- MySQL v 8.0.32
+- AWS
+- PowerBI v 2.114.864.0
+- Trello
+
+## Metodología de trabajo
+
+Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
+
+## EDA - ETL
+
+El análisis de datos exploratorio de los diversos conjuntos de datos en la base de datos MIMIC III se hizo en conjunto con el proceso de  Extracción, transformación y carga (ETL). 
+
+
+Para esta parte, se tomo  varios pasos para analizar la información básica del conjunto de datos y aplicó varios métodos para el preprocesamiento de datos.
+
+Estos varios pasos incluyen:
+- Leer todas las tablas de la base de datos en un dataframe correspondiente. 
+- Visualizamos la informacion de los dataframes.
+- Columnas Vacias: En principio se eliminó las columnas que tenian mas del 80% de registros nulos.
+- Despues se analiza de manera exhaustiva si las columnas que tienen aun una mayoria de datos nulos lo usaremos o no para poder eliminarlos. 
+- Reemplazar los valores nulos por ceros.
+
+
+
+
+
 ## Alcance
 
 ### API
@@ -99,24 +138,9 @@ Mostrar gráficamente métricas y KPI’s para apoyar las decisiones de atenció
 - Visualizaciones de redes: mostrar las relaciones entre diferentes diagnósticos, comorbilidades, tratamientos.
 - Explorar los datos de MIMIC III de manera más detallada, como filtros, gráficos interactivos.
 
-## Stack Tecnológico
-
-- Python v 3.10.9
-- Pandas v 1.5.2
-- FastAPI v 0.92.0
-- Jupyter Notebooks v 1.0.15
-- Visual Studio Code v 1.76.0
-- MySQL v 8.0.32
-- AWS
-- PowerBI v 2.114.864.0
-- Trello
-
-
-## EDA
 
 
 
-## ETL
 
 ## Automatización
 
@@ -129,9 +153,12 @@ Este flujo de procesos se escalará en siguientes etapas para que los archivos s
 ![image](https://user-images.githubusercontent.com/111448124/227803184-2dc7fe22-d3d3-4505-8a0a-9d2540f8c0b0.png)
 
 
-## Metodología de trabajo
 
-Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
+## Modelo de Machine Learning
+
+
+
+
 
 ## Autores
 
