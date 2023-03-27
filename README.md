@@ -174,12 +174,25 @@ Este flujo de procesos se escalará en siguientes etapas para que los archivos s
 
 
 ## Autores
+:yellow_circle: **Carlos Farias** :yellow_circle:
+- GitHub: [@CarlitosAlex](https://github.com/CarlitosAlex)
+- Correo electronico:
+- Linkedin:
 
-- [@CarlitosAlex](https://github.com/CarlitosAlex)
-- [@Cvargas24](https://github.com/Cvargas24)
-- [@jbracho03](https://github.com/jbracho03)
-- [@racevedog](https://www.github.com/racevedog)
+:yellow_circle: **Carlos Vargas** :yellow_circle:
+- GitHub: [@Cvargas24](https://github.com/Cvargas24)
+- Correo electronico:
+- Linkedin:
 
+:yellow_circle: **Jose Manuel Bracho** :yellow_circle:
+- GitHub: [@jbracho03](https://github.com/jbracho03)
+- Correo electronico: josemanuelbrachonavarro@gmail.com
+- Linkedin: [LINKEDIN](www.linkedin.com/in/jose-manuel-bracho-navarro)
+
+:yellow_circle: **Ramon Acevedo** :yellow_circle:
+- GitHub: [@racevedog](https://www.github.com/racevedog)
+- Correo electronico:
+- Linkedin:
 
 ## Github
 
