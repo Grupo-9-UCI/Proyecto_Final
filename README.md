@@ -114,20 +114,13 @@ Obtener la tasa de reingresos a la UCI por mes.
 
 ### KPI’s
 
-- Tiempo promedio de permanencia.
-Reducir en 20% el tiempo de permanencia de los pacientes en la UCI por mes.
+- Uno de nuestros objetivos principales es mejorar la eficiencia en la unidad de cuidados intensivos. Para ello, nos enfocaremos en reducir el tiempo de permanencia de los pacientes en un 20% mensual en promedio, lo que permitirá optimizar el uso de los recursos y mejorar la calidad de atención.
 
-- Tasa de reingreso.
-Reducir la tasa de reingreso a UCI en un 20% mensual.
+- Además, buscaremos reducir la tasa de reingreso a UCI en un 20% mensual, lo que contribuirá a disminuir la carga de trabajo en el personal y a mejorar la recuperación de los pacientes.
 
-- Tasa de IAAS.
-La tasa de IAAS mide la proporción de pacientes que desarrollan una infección durante su hospitalización después de haber recibido un procedimiento médico. Importante para evaluar la efectividad de las medidas preventivas y para identificar áreas que necesitan mejoras para reducir la tasa de Infección asociada a la salud.
+- La tasa de IAAS también será una de las métricas que seguiremos de cerca, ya que nos permitirá evaluar la efectividad de las medidas preventivas y detectar   oportunidades de mejora para reducir la tasa de infección asociada a la salud.
 
-- Tasa de infección. 
-Reducir la tasa de infección durante la hospitalización en un 20% mensual.  `** fuera de alcance en esta etapa`
-
-- Tasa de Mortalidad 
-Reducir la tasa de mortalidad en 10% mensual. `** fuera de alcance en esta etapa`
+- Finalmente, aunque reducir la tasa de infección y la tasa de mortalidad son objetivos importantes, en esta etapa nos enfocaremos en los objetivos mencionados anteriormente, que son más factibles de lograr en el corto plazo. `** fuera de alcance en esta etapa`
 
 
 ### Dashboard.
