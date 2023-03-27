@@ -9,9 +9,13 @@
 
 La Unidad de Cuidados Intensivos (`UCI`) de un hospital cuenta con grandes volumenes de información de los pacientes que son atendidos en esta área en una infraestructura vulnerable, con mecanismos de seguridad e integridad débiles, dificultades de escalabilidad y limitada disponibilidad en tiempo real.
 
+
+
 ## Solución propuesta
 
 La siguiente propuesta establece una arquitectura tecnólogica para el tratamiento de datos, robusta y escalable para soportar y apoyar la toma de decisiones del equipo médico directivo y operativo en el entorno de la recepción, registro, procesos y procedimientos realizados a pacientes que ingresan en la `UCI` de un hospital.
+
+
 
 ## Objetivos :dart:
 
@@ -20,6 +24,8 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 - Reducir el tiempo de estancia de los pacientes en la `UCI` mediante una mejor atención.
 - Mejorar la selección de los pacientes que ingresan en la `UCI`, mediante la  priorización de su ingreso.
 - Reducir la tasa de mortalidad, las tasas de infección e incrementar la satisfacción del paciente.
+
+
 
 ## Stack Tecnológico :hammer_and_wrench:
 
@@ -33,9 +39,15 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 - PowerBI v 2.114.864.0
 - Trello
 
+
+
 ## Metodología de trabajo :pencil2:
 
-Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
+**Kanban (Trello)** 
+
+Kanban es una metodología de gestión de flujos de trabajo continuos que se utiliza para visualizar y controlar el trabajo de manera efectiva. Trello es una herramienta de Kanban popular que permite crear tableros personalizados para organizar y monitorear tareas y proyectos. Con esta metodología, los equipos pueden identificar cuellos de botella y reasignar tareas para mejorar la eficiencia y la productividad en un flujo de trabajo continuo y dinámico.
+
+
 
 ## EDA - ETL :gear:
 
@@ -58,6 +70,8 @@ Estos varios pasos incluyen:
 
 
 ## Alcance
+
+
 
 ### API :rocket:
 
@@ -112,6 +126,9 @@ Obtener la tasa de reingresos a la UCI por mes.
 | `year`    | `integer`| **Requerido**. Año a consultar {2100 - 2203} |
 | `month`   | `integer`| **Requerido**. Mes a consultar {1 - 12} |
 
+
+
+
 ### KPI’s :bar_chart:
 
 - Uno de nuestros objetivos principales es mejorar la eficiencia en la unidad de cuidados intensivos. Para ello, nos enfocaremos en reducir el tiempo de permanencia de los pacientes en un 20% mensual en promedio, lo que permitirá optimizar el uso de los recursos y mejorar la calidad de atención.
@@ -121,6 +138,8 @@ Obtener la tasa de reingresos a la UCI por mes.
 - La tasa de IAAS también será una de las métricas que seguiremos de cerca, ya que nos permitirá evaluar la efectividad de las medidas preventivas y detectar   oportunidades de mejora para reducir la tasa de infección asociada a la salud.
 
 - Finalmente, aunque reducir la tasa de infección y la tasa de mortalidad son objetivos importantes, en esta etapa nos enfocaremos en los objetivos mencionados anteriormente, que son más factibles de lograr en el corto plazo. `** fuera de alcance en esta etapa`
+
+
 
 
 ### Dashboard :chart_with_upwards_trend:
