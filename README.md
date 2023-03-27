@@ -117,10 +117,10 @@ Reducir en 20% el tiempo de permanencia de los pacientes en la UCI por mes.
 Reducir la tasa de reingreso a UCI en un 20% mensual.
 - Tasa de IAAS.
 La tasa de IAAS mide la proporción de pacientes que desarrollan una infección durante su hospitalización después de haber recibido un procedimiento médico. Importante para evaluar la efectividad de las medidas preventivas y para identificar áreas que necesitan mejoras para reducir la tasa de Infección asociada a la salud.
-- Tasa de infección. `** fuera de alcance en esta etapa`
-Reducir la tasa de infección durante la hospitalización en un 20% mensual. 
-- Tasa de Mortalidad `** fuera de alcance en esta etapa`
-Reducir la tasa de mortalidad en 10% mensual.
+- Tasa de infección. 
+Reducir la tasa de infección durante la hospitalización en un 20% mensual.  `** fuera de alcance en esta etapa`
+- Tasa de Mortalidad 
+Reducir la tasa de mortalidad en 10% mensual. `** fuera de alcance en esta etapa`
 
 
 ### Dashboard.
