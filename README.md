@@ -39,6 +39,10 @@ Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
 
 ## EDA - ETL
 
+<center>
+ <img src=https://assets-global.website-files.com/6130fa1501794e37c21867cf/63fe66206f0e3550940b4d77_63cf2f4e5df39d538379de2d_image7.png > 
+ </center>
+
 El análisis de datos exploratorio de los diversos conjuntos de datos en la base de datos MIMIC III se hizo en conjunto con el proceso de  Extracción, transformación y carga (ETL). 
 
 
