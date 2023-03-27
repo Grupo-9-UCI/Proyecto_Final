@@ -13,7 +13,7 @@ La Unidad de Cuidados Intensivos (`UCI`) de un hospital cuenta con grandes volum
 
 La siguiente propuesta establece una arquitectura tecnólogica para el tratamiento de datos, robusta y escalable para soportar y apoyar la toma de decisiones del equipo médico directivo y operativo en el entorno de la recepción, registro, procesos y procedimientos realizados a pacientes que ingresan en la `UCI` de un hospital.
 
-## Objetivos
+## Objetivos :dart:
 
 El alcance considerado en esta primera etapa de la propuesta es proveer de herramientas que ayuden a: 
 
@@ -21,7 +21,7 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 - Mejorar la selección de los pacientes que ingresan en la `UCI`, mediante la  priorización de su ingreso.
 - Reducir la tasa de mortalidad, las tasas de infección e incrementar la satisfacción del paciente.
 
-## Stack Tecnológico
+## Stack Tecnológico :hammer_and_wrench:
 
 - Python v 3.10.9
 - Pandas v 1.5.2
@@ -33,11 +33,11 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 - PowerBI v 2.114.864.0
 - Trello
 
-## Metodología de trabajo
+## Metodología de trabajo :pencil2:
 
 Kanban (Trello) - metodología continua de gestión de flujos de trabajo.
 
-## EDA - ETL
+## EDA - ETL :gear:
 
 <center>
  <img src="Imagenes/Turquoise Simple Modern Linkedin Banner (2).png" > 
@@ -59,7 +59,7 @@ Estos varios pasos incluyen:
 
 ## Alcance
 
-### API
+### API :rocket:
 
 Se implementa una interfase aplicativa abierta `API` para exponer servicios de consulta que pueden ser consumidos por la propia solución y cualquier otra que se autorice.
 
@@ -112,7 +112,7 @@ Obtener la tasa de reingresos a la UCI por mes.
 | `year`    | `integer`| **Requerido**. Año a consultar {2100 - 2203} |
 | `month`   | `integer`| **Requerido**. Mes a consultar {1 - 12} |
 
-### KPI’s
+### KPI’s :bar_chart:
 
 - Uno de nuestros objetivos principales es mejorar la eficiencia en la unidad de cuidados intensivos. Para ello, nos enfocaremos en reducir el tiempo de permanencia de los pacientes en un 20% mensual en promedio, lo que permitirá optimizar el uso de los recursos y mejorar la calidad de atención.
 
@@ -123,32 +123,19 @@ Obtener la tasa de reingresos a la UCI por mes.
 - Finalmente, aunque reducir la tasa de infección y la tasa de mortalidad son objetivos importantes, en esta etapa nos enfocaremos en los objetivos mencionados anteriormente, que son más factibles de lograr en el corto plazo. `** fuera de alcance en esta etapa`
 
 
-### Dashboard.
+### Dashboard :chart_with_upwards_trend:
 
-Mostrar gráficamente métricas y KPI’s para apoyar las decisiones de atención y mejora de servicios en la UCI.
-- Estadísticas generales:  el número de pacientes, el número de admisiones, la duración promedio de la estadía, la tasa de mortalidad.
+Se busca presentar información relevante para la toma de decisiones en la UCI a través de métricas y KPIs. Estas incluyen estadísticas generales, como el número de pacientes, admisiones, duración promedio de estadía, tasa de mortalidad, así como datos de pacientes, como edad, género, diagnóstico, comorbilidades, tratamientos, medicamentos, resultados de laboratorio e imágenes médicas.
 
-- Datos de pacientes: edad, género, diagnóstico, comorbilidades, tratamientos, medicamentos, resultados de laboratorio, imágenes médicas.
+Además, se muestran tendencias a lo largo del tiempo para diferentes métricas, como la tasa de admisiones, duración de la estadía, tasa de mortalidad y uso de     diferentes tratamientos. Se realizan análisis de subconjuntos de pacientes según diferentes criterios, como edad, género y diagnóstico. Se presenta también un análisis de supervivencia con curvas de supervivencia para diferentes grupos de pacientes.
 
-- Tendencias a lo largo del tiempo para las métricas:  
-    - Tasa de admisiones. 
-    - La duración de la estadía.
-    - La tasa de mortalidad. 
-    - El uso de diferentes tratamientos.
-   
-- Análisis de subconjuntos de pacientes según diferentes criterios, como la edad, el género, el diagnóstico.
-
-- Análisis de supervivencia: mostrar curvas de supervivencia para diferentes grupos de pacientes según diferentes criterios, como la edad, el género, el diagnóstico.
-
-- Visualizaciones de redes: mostrar las relaciones entre diferentes diagnósticos, comorbilidades, tratamientos.
-
-- Explorar los datos de MIMIC III de manera más detallada, como filtros, gráficos interactivos.
+Se utilizan visualizaciones de redes para mostrar las relaciones entre diferentes diagnósticos, comorbilidades y tratamientos. Finalmente, se explora en detalle los   datos de MIMIC III mediante filtros y gráficos interactivos. Todo esto con el objetivo de apoyar las decisiones de atención y mejora de servicios en la UCI.
 
 
 
 
 
-## Automatización
+## Automatización :robot:
 
 Empleamos la plataforma `Apache-Airflow` para automatizar el flujo de procesos de adquisición, exploración, preprocesamiento, transformación y carga de datos al repositorio de MySQL desplegado en AWS-RDS.
 
@@ -166,7 +153,7 @@ Este flujo de procesos se escalará en siguientes etapas para que los archivos s
 
 
 
-## Autores
+## Autores :busts_in_silhouette:
 :yellow_circle: **Carlos Farias** :yellow_circle:
 - GitHub: [@CarlitosAlex](https://github.com/CarlitosAlex)
 - Correo electronico:
