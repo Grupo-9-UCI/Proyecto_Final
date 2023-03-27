@@ -1,7 +1,7 @@
 # Proyecto Final - Unidad De Cuidados Intensivos
 
 <center>
- <img src="Turquoise Simple Modern Linkedin Banner (1).png" > 
+ <img src="Imagenes/Turquoise Simple Modern Linkedin Banner (1).png" > 
  </center>
 
 
