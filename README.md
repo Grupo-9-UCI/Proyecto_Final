@@ -150,7 +150,9 @@ Además, se muestran tendencias a lo largo del tiempo para diferentes métricas,
 
 Se utilizan visualizaciones de redes para mostrar las relaciones entre diferentes diagnósticos, comorbilidades y tratamientos. Finalmente, se explora en detalle los   datos de MIMIC III mediante filtros y gráficos interactivos. Todo esto con el objetivo de apoyar las decisiones de atención y mejora de servicios en la UCI.
 
-
+<center>
+ <img src="Imagenes/Turquoise Simple Modern Linkedin Banner (1).png" > 
+ </center>
 
 
 
