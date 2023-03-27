@@ -187,7 +187,7 @@ Este flujo de procesos se escalará en siguientes etapas para que los archivos s
 :yellow_circle: **Jose Manuel Bracho** :yellow_circle:
 - GitHub: [@jbracho03](https://github.com/jbracho03)
 - Correo electronico: josemanuelbrachonavarro@gmail.com
-- Linkedin: [LINKEDIN](www.linkedin.com/in/jose-manuel-bracho-navarro)
+- Linkedin: www.linkedin.com/in/jose-manuel-bracho-navarro
 
 :yellow_circle: **Ramon Acevedo** :yellow_circle:
 - GitHub: [@racevedog](https://www.github.com/racevedog)
