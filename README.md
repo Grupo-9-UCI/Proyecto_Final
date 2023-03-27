@@ -1,5 +1,4 @@
-# Proyecto Final
-Unidad De Cuidados Intensivos
+# Proyecto Final - Unidad De Cuidados Intensivos
 
 <center>
  <img src="https://i.postimg.cc/bvLVFqpt/readme.jpg" alt="Prueba" width="480" height="300" > 
