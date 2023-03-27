@@ -112,12 +112,16 @@ Obtener la tasa de reingresos a la UCI por mes.
 
 - Tiempo promedio de permanencia.
 Reducir en 20% el tiempo de permanencia de los pacientes en la UCI por mes.
+
 - Tasa de reingreso.
 Reducir la tasa de reingreso a UCI en un 20% mensual.
+
 - Tasa de IAAS.
 La tasa de IAAS mide la proporción de pacientes que desarrollan una infección durante su hospitalización después de haber recibido un procedimiento médico. Importante para evaluar la efectividad de las medidas preventivas y para identificar áreas que necesitan mejoras para reducir la tasa de Infección asociada a la salud.
+
 - Tasa de infección. 
 Reducir la tasa de infección durante la hospitalización en un 20% mensual.  `** fuera de alcance en esta etapa`
+
 - Tasa de Mortalidad 
 Reducir la tasa de mortalidad en 10% mensual. `** fuera de alcance en esta etapa`
 
@@ -126,15 +130,21 @@ Reducir la tasa de mortalidad en 10% mensual. `** fuera de alcance en esta etapa
 
 Mostrar gráficamente métricas y KPI’s para apoyar las decisiones de atención y mejora de servicios en la UCI.
 - Estadísticas generales:  el número de pacientes, el número de admisiones, la duración promedio de la estadía, la tasa de mortalidad.
+
 - Datos de pacientes: edad, género, diagnóstico, comorbilidades, tratamientos, medicamentos, resultados de laboratorio, imágenes médicas.
+
 - Tendencias a lo largo del tiempo para las métricas:  
-    - tasa de admisiones. 
-    - la duración de la estadía.
-    - la tasa de mortalidad. 
-    - el uso de diferentes tratamientos.
+    - Tasa de admisiones. 
+    - La duración de la estadía.
+    - La tasa de mortalidad. 
+    - El uso de diferentes tratamientos.
+   
 - Análisis de subconjuntos de pacientes según diferentes criterios, como la edad, el género, el diagnóstico.
+
 - Análisis de supervivencia: mostrar curvas de supervivencia para diferentes grupos de pacientes según diferentes criterios, como la edad, el género, el diagnóstico.
+
 - Visualizaciones de redes: mostrar las relaciones entre diferentes diagnósticos, comorbilidades, tratamientos.
+
 - Explorar los datos de MIMIC III de manera más detallada, como filtros, gráficos interactivos.
 
 
