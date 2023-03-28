@@ -175,9 +175,9 @@ Este flujo de procesos se escalará en siguientes etapas para la implementación
 </p>
 
 
-## Modelo de Machine Learning
+## Modelo de Machine Learning - Prediccion de Mortalidad 
 
-Para nuestro Modelo de Machine Learning, utilizaremos el algoritmo K-means, que es un modelo de clasificación no supervisado. Este modelo dividirá la cantidad de pacientes en dos categorías: pacientes dados de alta con el número 0 y pacientes fallecidos con el número 1. La clasificación se basa en los datos proporcionados por el cliente y, si es necesario, se pueden clasificar en más grupos en función de las necesidades futuras del cliente.
+Para nuestro Modelo de Machine Learning, utilizamos el algoritmo K-means, que es un modelo de clasificación no supervisado. Este modelo dividirá la cantidad de pacientes en dos categorías: pacientes dados de alta con el número 0 y pacientes fallecidos con el número 1. La clasificación se basa en los datos proporcionados por el cliente y, si es necesario, se pueden clasificar en más grupos en función de las necesidades futuras del cliente.
 
 Es importante mencionar que, aunque nuestro modelo de predicción de mortalidad en UCI ha arrojado resultados prometedores, no es perfecto y siempre hay margen de mejora. Estamos trabajando constantemente para perfeccionar nuestro modelo y ofrecer resultados más precisos y confiables a nuestros clientes.
 
@@ -191,7 +191,7 @@ Es importante mencionar que, aunque nuestro modelo de predicción de mortalidad 
 
 :yellow_circle: **Carlos Vargas** :yellow_circle:
 - GitHub: [@Cvargas24](https://github.com/Cvargas24)
-- Correo electronico: cfarias.gallardo7@gmail.com
+- Correo electronico: carlosvargassanchez24@gmail.com
 - Linkedin: https://www.linkedin.com/in/carlos-vargas-sanchez-3578031a6/
 
 :yellow_circle: **Jose Manuel Bracho** :yellow_circle:
