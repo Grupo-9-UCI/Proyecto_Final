@@ -29,15 +29,17 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 
 ## Stack Tecnológico :hammer_and_wrench:
 
-- Python v 3.10.9
-- Pandas v 1.5.2
-- FastAPI v 0.92.0
-- Jupyter Notebooks v 1.0.15
-- Visual Studio Code v 1.76.0
-- MySQL v 8.0.32
-- AWS
-- PowerBI v 2.114.864.0
-- Trello
+- **Python:** Lenguaje de programación de alto nivel y orientado a objetos.
+- **Pandas:** Biblioteca de software para el análisis y manipulación de datos estructurados y de series temporales.
+- **FastAPI:** Framework de Python para construir APIs web de alta velocidad y alto rendimiento.
+- **Jupyter Notebooks:** Aplicación web para crear y compartir documentos que contienen código, visualizaciones y texto explicativo.
+- **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft.
+- **MySQL:** Sistema de gestión de bases de datos relacional de código abierto.
+- **AWS:** Plataforma de servicios de computación en la nube.
+- **PowerBI:** Herramienta de análisis y visualización de datos de Microsoft.
+- **Trello:** Herramienta de gestión de proyectos y tareas.
+- **Google Meet:** Plataforma de videoconferencias de Google.
+- **GitHub:** Plataforma de alojamiento y gestión de repositorios de código fuente.
 
 
 
