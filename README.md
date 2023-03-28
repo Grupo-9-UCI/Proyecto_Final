@@ -166,13 +166,13 @@ Se utilizan visualizaciones de redes para mostrar las relaciones entre diferente
 
 Empleamos la plataforma `Apache-Airflow` para automatizar el flujo de procesos de adquisición, exploración, preprocesamiento, transformación y carga de datos al repositorio de MySQL desplegado en AWS-RDS.
 
-En esta primera etapa este flujo inicia en el subsitema Linux de Windows local `WSL`, accediendo a los archivos `csv` desde una carpeta compartida y se ejecutan los procesos `dag` que toman estos archivos, hacen la conexión con MySQL y ejecutan la carga de datos.
+En esta primera etapa este flujo inicia en el subsitema Linux de Windows local `WSL`, accediendo a los archivos `csv` en AWS-S3 y se ejecutan los procesos `dag` que toman estos archivos, hacen la conexión con MySQL y ejecutan la carga de datos.
 
-Este flujo de procesos se escalará en siguientes etapas para que los archivos se alojen en el subsistema S3 de AWS para robustecer el proceso de cargas incrementales.
+Este flujo de procesos se escalará en siguientes etapas para la implementación de carpetas (entrada - salida) en el subsistema S3 de AWS para robustecer el proceso de cargas incrementales.
 
-![image](https://user-images.githubusercontent.com/111448124/228265590-b7a87800-8445-42b0-8ea6-e5448d3a334d.png)
-
-
+<center>
+ <img src="Imagenes/Automatizacion.png" > 
+ </center>
 
 ## Modelo de Machine Learning
 
