@@ -141,7 +141,7 @@ Obtener la tasa de reingresos a la UCI por mes.
 
 - Además, buscaremos reducir la tasa de reingreso a UCI en un 20% mensual, lo que contribuirá a disminuir la carga de trabajo en el personal y a mejorar la recuperación de los pacientes.
 
-- La tasa de IAAS también será una de las métricas que seguiremos de cerca, ya que nos permitirá evaluar la efectividad de las medidas preventivas y detectar   oportunidades de mejora para reducir la tasa de infección asociada a la salud.
+- La tasa de retraso mide la proporción de pacientes que no pueden ser dados de alta de la unidad de cuidados intensivos (UCI) en la fecha programada.
 
 - Finalmente, aunque reducir la tasa de infección y la tasa de mortalidad son objetivos importantes, en esta etapa nos enfocaremos en los objetivos mencionados anteriormente, que son más factibles de lograr en el corto plazo. `** fuera de alcance en esta etapa`
 
