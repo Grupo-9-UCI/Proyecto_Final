@@ -175,7 +175,7 @@ Este flujo de procesos se escalará en siguientes etapas para la implementación
 </p>
 
 
-## Modelo de Machine Learning - Prediccion de Mortalidad 
+## Modelo de Machine Learning - Prediccion de Mortalidad :chart_with_upwards_trend:
 
 Para nuestro Modelo de Machine Learning, utilizamos el algoritmo K-means, que es un modelo de clasificación no supervisado. Este modelo dividirá la cantidad de pacientes en dos categorías: pacientes dados de alta con el número 0 y pacientes fallecidos con el número 1. La clasificación se basa en los datos proporcionados por el cliente y, si es necesario, se pueden clasificar en más grupos en función de las necesidades futuras del cliente.
 
