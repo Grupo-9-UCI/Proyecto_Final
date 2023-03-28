@@ -200,7 +200,7 @@ Este flujo de procesos se escalará en siguientes etapas para que los archivos s
 - Correo electronico: racevedog7@gmail.com
 - Linkedin:
 
-## Github
+## Github :link:
 
 https://github.com/Grupo-9-UCI/Proyecto_Final
 
