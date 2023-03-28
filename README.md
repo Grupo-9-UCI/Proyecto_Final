@@ -77,9 +77,13 @@ Estos varios pasos incluyen:
 
 ### API :rocket:
 
+<center>
+ <img src="Imagenes/api.png" > 
+ </center>
+ 
 Se implementa una interfase aplicativa abierta `API` para exponer servicios de consulta que pueden ser consumidos por la propia solución y cualquier otra que se autorice.
 
-url: https://deta.space/discovery/r/ebjhw9xdtu48wjr7
+URL: https://deta.space/discovery/r/ebjhw9xdtu48wjr7 :link:
 
 #### Get average discharge time
 
@@ -127,7 +131,6 @@ Obtener la tasa de reingresos a la UCI por mes.
 | :-------- | :------- | :------------------------- |
 | `year`    | `integer`| **Requerido**. Año a consultar {2100 - 2203} |
 | `month`   | `integer`| **Requerido**. Mes a consultar {1 - 12} |
-
 
 
 
