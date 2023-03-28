@@ -32,6 +32,7 @@ El alcance considerado en esta primera etapa de la propuesta es proveer de herra
 - **Python:** Lenguaje de programación de alto nivel y orientado a objetos.
 - **Pandas:** Biblioteca de software para el análisis y manipulación de datos estructurados y de series temporales.
 - **FastAPI:** Framework de Python para construir APIs web de alta velocidad y alto rendimiento.
+- ** Deta Space:** Plataforma de desarrollo que ofrece herramientas para crear, implementar y escalar aplicaciones en la nube.
 - **Jupyter Notebooks:** Aplicación web para crear y compartir documentos que contienen código, visualizaciones y texto explicativo.
 - **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft.
 - **MySQL:** Sistema de gestión de bases de datos relacional de código abierto.
