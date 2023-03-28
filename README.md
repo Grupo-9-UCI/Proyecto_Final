@@ -181,6 +181,8 @@ Para nuestro Modelo de Machine Learning, utilizamos el algoritmo K-means, que es
 
 Es importante mencionar que, aunque nuestro modelo de predicción de mortalidad en UCI ha arrojado resultados prometedores, no es perfecto y siempre hay margen de mejora. Estamos trabajando constantemente para perfeccionar nuestro modelo y ofrecer resultados más precisos y confiables a nuestros clientes.
 
+### Conclusion
+- El proyecto se centró en desarrollar un dashboard interactivo para un hospital que permitiera a los usuarios visualizar estadísticas e información relevante de manera clara y concisa. Entre los objetivos logrados, se destacan la implementación de gráficos interactivos para mostrar estadísticas clave, la creación de una API de consultas para acceder a la información en tiempo real y la definición de KPIs para medir el desempeño del hospital. Esto ha permitido al cliente tomar decisiones más informadas y mejorar su eficiencia en la toma de decisiones, lo que se traduce en una mejor atención médica y un mejor servicio para sus pacientes.
 
 
 ## Autores :busts_in_silhouette:
