@@ -205,7 +205,7 @@ Es importante mencionar que, aunque nuestro modelo de predicción de mortalidad 
 :yellow_circle: **Ramon Acevedo** :yellow_circle:
 - GitHub: [@racevedog](https://www.github.com/racevedog)
 - Correo electronico: racevedog7@gmail.com
-- Linkedin:
+- Linkedin: https://www.linkedin.com/in/ramon-acevedo-g/
 
 ## Github :link:
 
